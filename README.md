@@ -10,6 +10,6 @@
 
 ### English
 
-- 👋🏻 Hello, I am @devjotaa from Brasil 💚
+- 👋🏻 Hello, I am @devjotaa from Brazil 💚
 - 🌱 Learning HTML, CSS and JavaScript (and a little bit of english too 😅)
 - 📩 E-mail to contact: odevjotaa@gmail.com
